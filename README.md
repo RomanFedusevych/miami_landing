@@ -1,5 +1,5 @@
 <h1> MIAMI landing </h1>
-Stack: HTML5, SASS
+Tech stack: HTML5/CSS3/JS, SCSS, Figma
 <br>
 
 Fully responsive layout was made using media queries, CSS Grid and Flexbox (mobiles, tablets, laptops, large screens)
